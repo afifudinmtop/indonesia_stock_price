@@ -1,0 +1,25 @@
+{
+  "name": "indonesia_stock_price",
+  "version": "1.0.0",
+  "description": "indonesia (idx) stock price from web scrap",
+  "homepage": "https://github.com/afifudinmtop/indonesia_stock_price",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "idx",
+    "stock price",
+    "indonesia",
+    "web scrap"
+  ],
+  "author": "Afifudin Ma'arif",
+  "license": "MIT",
+  "dependencies": {
+    "puppeteer": "^19.2.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/afifudinmtop/indonesia_stock_price.git"
+  }
+}
